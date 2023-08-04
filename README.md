@@ -3,7 +3,7 @@ Tic Tac Toe - Computer vs human
 
 **INTRODUCTION**
 
-This is a tic tac toe game which has the two users as - Computer and Human
+This is a tic tac toe game which has the two users as - Computer and Human using minmax algorithm
 
 **Flow Diagram**
 
